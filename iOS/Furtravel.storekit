@@ -1,0 +1,29 @@
+{
+  "identifier" : "furtravel",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "furtravel_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Travel checklist generator with pet-specific document reminders",
+          "displayName" : "Furtravel Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "furtravel_pro_unlock",
+      "referenceName" : "Furtravel Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
